@@ -1,6 +1,6 @@
 {
   "name": "@matali/eslint-config",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Personal, shareable ESLint configuration for TypeScript and Next.js projects.",
   "homepage": "https://github.com/mateuszaliyev/eslint-config#readme",
   "bugs": {
