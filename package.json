@@ -21,22 +21,22 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.53.0",
-    "eslint-config-next": "13.2.0",
-    "eslint-config-prettier": "8.6.0",
+    "@typescript-eslint/eslint-plugin": "5.57.0",
+    "eslint-config-next": "13.2.4",
+    "eslint-config-prettier": "8.8.0",
     "eslint-plugin-simple-import-sort": "10.0.0",
     "eslint-plugin-sort-destructure-keys": "1.5.0",
     "eslint-plugin-sort-keys": "2.3.5",
-    "eslint-plugin-typescript-sort-keys": "2.1.0",
+    "eslint-plugin-typescript-sort-keys": "2.3.0",
     "eslint-plugin-unused-imports": "2.0.0"
   },
   "devDependencies": {
-    "@types/eslint": "8.21.1",
+    "@types/eslint": "8.37.0",
     "@types/prettier": "2.7.2",
-    "@typescript-eslint/parser": "5.53.0",
-    "eslint": "8.34.0",
-    "prettier": "2.8.4",
-    "typescript": "4.9.5"
+    "@typescript-eslint/parser": "5.57.0",
+    "eslint": "8.37.0",
+    "prettier": "2.8.7",
+    "typescript": "5.0.3"
   },
   "peerDependencies": {
     "@typescript-eslint/parser": "^5.0.0",
